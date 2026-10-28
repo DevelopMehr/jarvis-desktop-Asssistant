@@ -8,6 +8,8 @@
 ![Tests](https://img.shields.io/badge/automated%20checks-146%20passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+Jarvis Window[<img width="1366" height="768" alt="Jarvis" src="https://github.com/user-attachments/assets/4f0a7d93-820e-4174-b943-bc1b33f75a99" />]
+
 ---
 
 ## Table of contents
