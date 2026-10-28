@@ -1,0 +1,22 @@
+# --- SECRETS AND PERSONAL DATA: never commit these ---
+api_key.txt
+profile.txt
+memory.json
+notes.txt
+job.txt
+settings.json
+jarvis.log
+outputs/
+.env
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

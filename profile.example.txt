@@ -1,0 +1,18 @@
+Name: Your Name
+Location: City, Country
+Education: Your degree, year and university
+Career goal: The role or study you are aiming for
+Work: What you do now (job, freelance, studies)
+
+Skills: List your real skills, separated by commas
+Programming languages: Languages you can really use
+Projects: One line per project - what it is and what you built
+Tools and frameworks: Libraries and tools you have actually used
+Languages spoken: Your languages and levels
+Achievements: Real results only (awards, grades, published work)
+
+# Notes:
+# - Jarvis uses ONLY what is written here when it drafts cover letters and interview answers.
+# - Write only true things. Missing details become [ADD: ...] markers, not inventions.
+# - Do not put passwords, ID numbers or private documents in this file.
+# - Copy this file to profile.txt and edit that copy. profile.txt is never uploaded to GitHub.
