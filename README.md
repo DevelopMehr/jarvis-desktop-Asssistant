@@ -8,8 +8,6 @@
 ![Tests](https://img.shields.io/badge/automated%20checks-146%20passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-![Jarvis window](docs/screenshot.png)
-
 ---
 
 ## Table of contents
